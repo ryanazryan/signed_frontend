@@ -1,8 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Signed Frontend
 
-## Getting Started
+**Signed Frontend** is a web-based application designed to display school schedules, events, and adzan (prayer call) notifications. This project focuses solely on the frontend, which is built using **Next.js** and integrates seamlessly with the backend powered by Laravel. The database is managed using MySQL and is deployed on a server for live access.
 
-First, run the development server:
+<div style="text-align: center;">
+  <img src="https://github.com/ryanazryan/signed_frontend/blob/main/public/images/Signed%20Frontend%20Login.png?raw=true" alt="Login UI"/>
+  <img src="https://github.com/ryanazryan/signed_frontend/blob/main/public/images/Signed%20Frontend%20Display%202.png?raw=true" alt="Signed UI"/>
+  
+</div>
+
+## Features
+- Displays school schedules and event details
+- Integrated adzan notification feature
+- Responsive design for multiple devices
+- Seamless API integration with Laravel backend
+
+## Technologies Used
+- **Frontend Framework**: Next.js
+- **Networking**: Axios for API calls
+- **Backend**: Laravel (API integration)
+- **Database**: MySQL
+- **Deployment**: Hosted on a live server
+
+## Installation
+1. Clone the repository:
+   ```bash
+
+   
+   git clone https://github.com/<your-username>/signed-frontend.git
+
+run the development server:
 
 ```bash
 npm run dev
