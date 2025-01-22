@@ -3,8 +3,8 @@
 **Signed Frontend** is a web-based application designed to display school schedules, events, and adzan (prayer call) notifications. This project focuses solely on the frontend, which is built using **Next.js** and integrates seamlessly with the backend powered by Laravel. The database is managed using MySQL and is deployed on a server for live access.
 
 <div style="text-align: center;">
-  <img src="https://github.com/ryanazryan/signed_frontend/blob/main/public/images/Signed%20Frontend%20Login.png?raw=true" alt="Login UI"/>
   <img src="https://github.com/ryanazryan/signed_frontend/blob/main/public/images/Signed%20Frontend%20Display%202.png?raw=true" alt="Signed UI"/>
+  <img src="https://github.com/ryanazryan/signed_frontend/blob/main/public/images/Pengaturan%20Jadwal.png?raw=true" alt="Login UI"/>
   
 </div>
 
